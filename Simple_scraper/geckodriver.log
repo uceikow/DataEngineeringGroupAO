@@ -190,3 +190,172 @@ td/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cac
 1583878681670	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
 1583878727717	Marionette	INFO	Stopped listening on port 52030
+1583878984411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_d/34105d7d6lgdrh2nl3l51nvw0000gn/T/rust_mozprofileaZyJfI"
+1583878984850	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583878985110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583878985110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583878985110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583878985110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583878986783	Marionette	INFO	Listening on port 52354
+1583878986862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6983307289689206&output=html&h=90&slotname=3221030101&adk=2816515214&adf=3173046730&w=728&psa=1&guci=1.2.0.0.2.2.0.0&format=728x90&url=http%3A%2F%2Fallrecipes.co.uk%2Frecipes%2Findian-recipes.aspx%3Fpage%3D9%26o_is%3DLV_Pgntn&ea=0&flash=0&wgl=1&adsid=NT&dt=1583879069263&bpp=15&bdt=M&fdt=77&idt=77&shv=r20200305&cbv=r20190131&ptt=9&saldr=aa&correlator=3072916471761&frm=23&ife=4&pv=2&ga_vid=30232584.1583878990&ga_sid=1583879069&ga_hid=527986650&ga_fc=0&icsg=682&nhd=1&dssz=11&mdo=0&mso=0&u_tz=0&u_his=9&u_java=0&u_h=900&u_w=1440&u_ah=838&u_aw=1440&u_cd=24&u_nplug=0&u_nmime=0&adx=276&ady=0&biw=1280&bih=702&isw=728&ish=90&ifk=1453286114&scr_x=0&scr_y=0&oid=3&pvsid=2132382391499881&pem=789&rx=0&eae=2&fc=640&brdim=4%2C23%2C4%2C23%2C1440%2C23%2C1280%2C776%2C728%2C90&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=20&bc=29&ifi=1&uci=1.1ryjn1nc8i52&dtd=116, line 22: ReferenceError: osdlfm is not defined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+1583918182261	Marionette	INFO	Stopped listening on port 52354
+1583918436408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_d/34105d7d6lgdrh2nl3l51nvw0000gn/T/rust_mozprofileNcuJI2"
+1583918436801	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583918437063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583918437063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583918437063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583918437063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583918438751	Marionette	INFO	Listening on port 56036
+1583918438852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://eus.rubiconproject.com/usync.html?&gdpr=1&gdpr_consent=BOwFtE8OwFtE8__AAA__DA-AAAAt5IfafYrCwoWA3PZ5NgAgEK6BgQCFQAAACAAMYAIABQAACAUkgBEgiUAIAIBAAABARIJCAAgQAAASgAGAAAAIAgAAAAAAAABAAAEAAAAAABAAAAAAAAAAAAAAAAAg&geo=eu&co=uk, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://static.adsafeprotected.com/main.19.8.58.js, line 97: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://static.adsafeprotected.com/main.19.8.58.js, line 97: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.update.adsrvr.org/2/4.59.0/main.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://static.adsafeprotected.com/main.19.8.58.js, line 97: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200305/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
+1583926028656	Marionette	INFO	Stopped listening on port 56036
