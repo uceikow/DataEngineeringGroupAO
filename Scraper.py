@@ -28,6 +28,10 @@ from selenium.webdriver import Firefox
 from time import sleep
 from datetime import datetime
 import sqlalchemy as db
+from selenium.webdriver.firefox.options import Options
+
+options = Options()
+options.headless = True
 # pd.set_option('display.max_colwidth', 0)
 
 
@@ -47,16 +51,26 @@ import sqlalchemy as db
 from time import sleep
 from datetime import datetime
 
-driver = webdriver.Firefox(executable_path="~/DataEngineeringGroupAO/Simple_scraper/geckodriver")
+driver = webdriver.Firefox(executable_path="/home/ubuntu/.linuxbrew/Cellar/geckodriver/0.26.0/bin/geckodriver",options=options)
 data = []
 
 
 # In[34]:
 
+# click GDPR full-width banner 
+start_time = datetime.now()
+driver.get("http://allrecipes.co.uk/")
+time.sleep(5)
 
+# gdpr_button = driver.find_element_by_link_text("Continue")
+#gdpr_button = driver.find_element_by_xpath('//button[text()="Continue"]')
+gdpr_button = driver.find_elements_by_tag_name("button")
+gdpr_button.click()
+# //input[@onclick='sendAndRedirect()']
+# <button style="order:2" onclick="sendAndRedirect();">Continue</button>
 # scrape indian
 
-start_time = datetime.now()
+
 
 # scrape (start with page 2)
 for i in range(2,90):
