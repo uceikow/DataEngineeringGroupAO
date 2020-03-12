@@ -60,12 +60,12 @@ data = []
 # click GDPR full-width banner 
 start_time = datetime.now()
 driver.get("http://allrecipes.co.uk/")
-time.sleep(5)
+time.sleep(10)
 
 # gdpr_button = driver.find_element_by_link_text("Continue")
 #gdpr_button = driver.find_element_by_xpath('//button[text()="Continue"]')
-gdpr_button = driver.find_elements_by_tag_name("button")
-gdpr_button.click()
+driver.find_element_by_xpath("//input[@style='order:2' and @onclick='sendAndRedirect()']").click()
+
 # //input[@onclick='sendAndRedirect()']
 # <button style="order:2" onclick="sendAndRedirect();">Continue</button>
 # scrape indian
