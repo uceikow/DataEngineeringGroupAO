@@ -359,3 +359,5 @@ JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/w
 JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
 JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflNFNMpf/www-embed-player.js, line 383: NS_ERROR_FAILURE: 
 1583926028656	Marionette	INFO	Stopped listening on port 56036
+1584006361047	Marionette	INFO	Stopped listening on port 51307
+1584006362625	Marionette	INFO	Stopped listening on port 51745
