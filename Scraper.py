@@ -47,7 +47,7 @@ import sqlalchemy as db
 from time import sleep
 from datetime import datetime
 
-driver = webdriver.Firefox(executable_path="~/DataEngineeringGroupAO/Simple_scraper/geckodriver")
+driver = webdriver.Firefox(executable_path="/home/ubuntu/.linuxbrew/Cellar/geckodriver/0.26.0/bin/geckodriver")
 data = []
 
 
