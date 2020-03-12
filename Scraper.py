@@ -43,11 +43,11 @@ import sqlalchemy as db
 
 
 # open browser and create empty data array
-# /usr/local/bin/geckodriver
+# /usr/local/bin/geckodriver /home/ubuntu/.linuxbrew/Cellar/geckodriver
 from time import sleep
 from datetime import datetime
 
-driver = webdriver.Firefox(executable_path="/home/ubuntu/.linuxbrew/Cellar/geckodriver")
+driver = webdriver.Firefox(executable_path="/usr/local/bin/geckodriver")
 data = []
 
 
