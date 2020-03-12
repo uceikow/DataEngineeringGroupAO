@@ -58,13 +58,20 @@ data = []
 # In[34]:
 
 # click GDPR full-width banner 
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+
 start_time = datetime.now()
 driver.get("http://allrecipes.co.uk/consent/?dest=/")
-time.sleep(10)
+
+WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "button[onclick^='sendAndRedirect']"))).click()
 
 # gdpr_button = driver.find_element_by_link_text("Continue")
 #gdpr_button = driver.find_element_by_xpath('//button[text()="Continue"]')
-driver.find_element_by_xpath("//input[@style='order:2' and @onclick='sendAndRedirect()']").click()
+
+
+# driver.find_element_by_xpath("//input[type='button']]").click()
 
 # //input[@onclick='sendAndRedirect()']
 # <button style="order:2" onclick="sendAndRedirect();">Continue</button>
