@@ -63,8 +63,9 @@ driver.get("http://allrecipes.co.uk/")
 time.sleep(5)
 
 # gdpr_button = driver.find_element_by_link_text("Continue")
-gdpr_button = find_element_by_xpath("//input[@onclick='sendAndRedirect()']")
+gdpr_button = driver.find_element_by_xpath("/html/body/div/div/div/div/div/button")
 gdpr_button.click()
+# //input[@onclick='sendAndRedirect()']
 # <button style="order:2" onclick="sendAndRedirect();">Continue</button>
 # scrape indian
 
