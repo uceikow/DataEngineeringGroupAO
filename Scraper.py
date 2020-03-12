@@ -59,7 +59,7 @@ data = []
 
 # click GDPR full-width banner 
 start_time = datetime.now()
-driver.get("http://allrecipes.co.uk/")
+driver.get("http://allrecipes.co.uk/consent/?dest=/")
 time.sleep(10)
 
 # gdpr_button = driver.find_element_by_link_text("Continue")
