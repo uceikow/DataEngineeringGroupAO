@@ -28,6 +28,10 @@ from selenium.webdriver import Firefox
 from time import sleep
 from datetime import datetime
 import sqlalchemy as db
+from selenium.webdriver.firefox.options import Options
+
+options = Options()
+options.headless = True
 # pd.set_option('display.max_colwidth', 0)
 
 
@@ -47,7 +51,7 @@ import sqlalchemy as db
 from time import sleep
 from datetime import datetime
 
-driver = webdriver.Firefox(executable_path="/home/ubuntu/.linuxbrew/Cellar/geckodriver/0.26.0/bin/geckodriver")
+driver = webdriver.Firefox(executable_path="/home/ubuntu/.linuxbrew/Cellar/geckodriver/0.26.0/bin/geckodriver",options=options)
 data = []
 
 
