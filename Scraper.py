@@ -62,11 +62,14 @@ start_time = datetime.now()
 driver.get("http://allrecipes.co.uk/")
 time.sleep(5)
 
+# gdpr_button = driver.find_element_by_link_text("Continue")
+gdpr_button = find_element_by_xpath("//input[@onclick='sendAndRedirect()']")
+gdpr_button.click()
+# <button style="order:2" onclick="sendAndRedirect();">Continue</button>
 # scrape indian
 
 
-gdpr_button = driver.find_elements_by_link_text("Continue")
-gdpr_button.click()
+
 # scrape (start with page 2)
 for i in range(2,90):
     urlpage = (f"http://allrecipes.co.uk/recipes/indian-recipes.aspx?page={i}&o_is=LV_Pgntn")
